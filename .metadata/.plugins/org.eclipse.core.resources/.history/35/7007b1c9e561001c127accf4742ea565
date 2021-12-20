@@ -1,0 +1,5 @@
+package bankapp.model;
+
+public class Conta {
+
+}

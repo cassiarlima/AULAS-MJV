@@ -1,0 +1,16 @@
+package aulaSemana2;
+
+//conceitos de POO, modificadores de acesso e padrão Java Beans.
+//padrão Java Beans diz que todos os atributos devem ser privados, assim eu crio os getters and setters
+
+public class Conta {
+
+	private double saldo;
+	
+	//todo metodo é composto por tipo de retorno, nome declarativo e parametros
+	public void setSaldo(double saldo) {
+		
+	}
+	
+	
+}

@@ -1,0 +1,20 @@
+package aulaSemana2;
+
+import bankapp.model.Conta;
+import bankapp.service.ContaService;
+
+public class BankApplication {
+
+	public static void main(String[] args){
+		Conta conta = new Conta ();//criei o objeto
+		
+		ContaService terminal = new ContaService();
+		
+		terminal.depositar(conta, 50.0);
+		
+		//conta.setSaldo(10.0);//dei o valor para o objeto(set)
+	
+		System.out.println(conta.getSaldo()); //get
+			
+	}
+}

@@ -1,0 +1,10 @@
+package aulaSemana2;
+
+//conceitos de POO, modificadores de acesso e padrão Java Beans.
+
+public class Conta {
+
+	double saldo;
+	
+	
+}

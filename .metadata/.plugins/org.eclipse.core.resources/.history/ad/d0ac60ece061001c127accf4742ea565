@@ -1,0 +1,11 @@
+package aulaSemana2;
+
+public class BankApplication {
+
+	public static void main(String[] args){
+		Conta conta = new Conta ();//criei o objeto
+		conta.saldo =10.0;//dei o valor para o objeto
+		
+		System.out.println(conta.saldo); 
+	}
+}

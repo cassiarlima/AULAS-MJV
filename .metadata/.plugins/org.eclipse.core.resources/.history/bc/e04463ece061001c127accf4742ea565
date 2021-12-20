@@ -1,0 +1,11 @@
+package aulaSemana2;
+
+//conceitos de POO, modificadores de acesso e padrão Java Beans.
+//padrão Java Beans diz que todos os atributos devem ser privados
+
+public class Conta {
+
+	private double saldo;
+	
+	
+}
