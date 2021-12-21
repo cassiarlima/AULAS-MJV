@@ -2,7 +2,7 @@
 <h1 align="center">:file_cabinet: Aulas MJV</h1>
 
 ## :memo: Descrição
-MJV é uma empresa de consultoria, que disponibiliza bootcamps de tecnologia, após a seleção de pessoas, entrei para o bootcamp.
+MJV é uma empresa de consultoria, que disponibiliza bootcamps de tecnologia, após a seleção de pessoas, entrei para o bootcamp e estou criando um novo projeto em Java, com a framework SpringBoot.
 
 ## :books: O que estou apredendendo?
 * Semana 1: Versionamento de códigos com GitHub, GitLab e BitBucket, lógica de programação e atividades em grupo;
