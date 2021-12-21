@@ -44,11 +44,13 @@ public class BankApplication {
 			transferencia = ler.nextInt();
 			if (transferencia <= conta.getSaldo()) {
 				conta1.transferir(conta, transferencia, contaDestino);
+				System.out.println("Transferência de R$" + transferencia + " realizada com sucesso!");
+				System.out.println("O valor atual do saldo é: " + conta.getSaldo());
 			} else {
 				System.out.println("Valor inválido! ");
 			}
 		} else {
-			System.out.println("Operação cancelada pelo usuário! ");
+			System.out.println("Operação cancelada pelo usuário!");
 		}
 	}
 }
