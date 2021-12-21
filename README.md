@@ -19,7 +19,7 @@ MJV é uma empresa de consultoria, que disponibiliza bootcamps de tecnologia, ap
       <a href="https://github.com/cassiarlima">
         <img src="https://avatars.githubusercontent.com/u/89136471?s=400&u=26890b5f16adb2d05e790b6fe94ea64f533f223f&v=4" width="100px;" alt="Foto de Cássia Lima no GitHub"/><br>
         <sub>
-          <b>tatialveso</b>
+          <b>cassiarlima</b>
         </sub>
       </a>
     </td>
